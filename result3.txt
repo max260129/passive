@@ -1,0 +1,6 @@
+Facebook : yes
+Twitter : yes
+Instagram : yes
+Snapchat : no
+Youtube : no
+Saved in result3.txt
